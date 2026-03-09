@@ -33,7 +33,6 @@ The dataset contains information about passengers such as:
 - Age and passenger class played an important role in survival probability.
 
 ## Project Structure
-
 titanic-data-analysis
 │
 ├── titanic.ipynb
